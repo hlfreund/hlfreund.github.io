@@ -10,4 +10,5 @@ description: 2019-Present
 * University of California Riverside, Riverside, CA
 * Investigating the aeolian microbiome of the Salton Sea
 * Advisor: Dr. Emma Aronson
+* Funding: Chancellor's Distinguished Fellowship Award
  
