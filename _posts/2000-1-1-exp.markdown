@@ -6,7 +6,7 @@ title: "Contract Biologist"
 description: |
 ---
 
-* __2016 – 2017
+* __2016 – 2017__
 * Moorpark College
 * Position: Contract Biologist
 * Research: Population maintenance and propagation of endangered butterflies, specifically the Lange's Metalmark Butterfly and the Palos Verdes Blue Butterfly.
