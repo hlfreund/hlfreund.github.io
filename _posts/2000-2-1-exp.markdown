@@ -1,0 +1,12 @@
+---
+layout: default
+img: code.jpg
+category: Experiences
+title: "Student Intern"
+description: |
+---
+
+* __2016__
+* Moorpark College
+* Position: Student Intern for Biotechnology Department
+* Research: Optimization of Enzyme-Linked Immunosorbent Assay (ELISA) for Moorpark College's Biotechnology Certification Program curriculum.
