@@ -2,11 +2,11 @@
 layout: default
 img: code.jpg
 category: Experiences
-title: "Postdoctoral Researcher"
+title: "Contract Biologist"
 description: |
 ---
 
-* __2017 – Current__
-* University of California, Riverside
-* Position: ​Postdoctoral Researcher under Dr. Thomas Girke
-* Activities: ​Current research focuses on the development of computational data analysis methods for genome biology. Please, see more information [here](https://www.dcassol.com/#projects).
+* __2016 – 2017
+* Moorpark College
+* Position: Contract Biologist
+* Research: Population maintenance and propagation of endangered butterflies, specifically the Lange's Metalmark Butterfly and the Palos Verdes Blue Butterfly.
