@@ -2,13 +2,12 @@
 layout: default
 img: rice.JPG
 category: Education
-title: Bachelor's in Biological Sciences
+title: Bachelor's in Psychology
 description: |
 ---
 
-* __2005 - 2010__
-* Federal University of Pelotas, Pelotas, Brazil
-* Advisor: Dr. Marcos Antonio Bacarin
-* Scholarship from: FAPERGS and CNPq
+* __2009 - 2014__
+* University of California Santa Barbara, Goleta, CA
+* Advisor: Dr. Greg Ashby
 
 
