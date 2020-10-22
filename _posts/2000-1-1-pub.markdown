@@ -1,11 +1,15 @@
 ---
 layout: default
 img: 
-category: Publications
-title: "List of Publications"
+category: Resources
+title: "Collection of Helpful Resources"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
-- [GoogleScholar](https://scholar.google.com/citations?user=SJKCmboAAAAJ&hl=en)
-- [Complete list of publications](img/publication.pdf)
+- [Happy Belly Bioinformatics](https://astrobiomike.github.io/)
+- [Bioinformatics Help](https://www.biostars.org/")
+- [DADA2 Tutorial](https://benjjneb.github.io/dada2/tutorial.html)
+- [Data Science for R](https://r4ds.had.co.nz/)
+- [My GitHub](https://github.com/hlfreund)
+- [Learn Markdown](https://www.markdowntutorial.com/")
+- [Sci-Hub](https://scihubtw.tw/")
