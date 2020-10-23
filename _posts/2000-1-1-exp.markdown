@@ -1,7 +1,7 @@
 ---
 layout: default
 img: langes.jpg
-category: Experiences
+category: Experience
 title: "Contract Biologist"
 description: |
 ---
