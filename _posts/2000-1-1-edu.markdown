@@ -1,6 +1,6 @@
 ---
 layout: default
-img: workflow.jpg
+img: workflow.png
 category: Education
 title: PhD in Genetics, Genomics, and Bioinformatics
 description: 2019-Present
