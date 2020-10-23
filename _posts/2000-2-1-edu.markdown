@@ -1,6 +1,6 @@
 ---
 layout: default
-img: me.jpg
+img: Master.jpg
 category: Education
 title: Master's in Biology
 description: |
