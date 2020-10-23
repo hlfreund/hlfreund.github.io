@@ -2,7 +2,7 @@
 layout: default
 img: funny.jpg
 category: Resources
-title: "Collection of Helpful Resources"
+title: "Helpful Resources"
 description: |
 ---
 
