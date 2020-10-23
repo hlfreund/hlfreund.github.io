@@ -1,6 +1,6 @@
 ---
 layout: default
-img: rice.JPG
+img: ucsb.jpg
 category: Education
 title: Bachelor's in Psychology
 description: |
