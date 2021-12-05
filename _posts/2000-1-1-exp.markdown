@@ -1,12 +1,12 @@
 ---
 layout: default
-img: langes.jpg
+img: coding.jpg
 category: Experience
-title: "Contract Biologist"
-description: |
+title: "Graduate Student Researcher"
+description: 
 ---
 
-* __2016 – 2017__
-* The Butterfly Project
-* Position: Contract Biologist
-* Research: Population maintenance and propagation of endangered butterflies, specifically the Lange's Metalmark Butterfly and the Palos Verdes Blue Butterfly.
+* __2017 – 2019__
+* Dr. Renaud Berlemont's Bioinformatics Lab (CSU Long Beach)
+* Position: Graduate Student Researcher (Masters)
+* Research: Amplicon sequencing and shotgun metagenomics analyses
