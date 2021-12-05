@@ -2,7 +2,7 @@
 layout: default
 img: papers.jpg
 category: Publications
-title:
+title: List of Publications
 description:
 ---
 * Jackson, D.; Maltz, M.R.; **Freund, H.L.**; Borneman, J.; Aronson, E. Environment and Diet Influence the Bacterial
