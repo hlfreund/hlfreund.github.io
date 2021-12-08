@@ -41,6 +41,9 @@ social:
   - icon: twitter
     title: twitter
     url: https://twitter.com/UrFreundHannah
+  - icon: fab fa-google
+    title: google scholar
+    url: https://scholar.google.com/citations?user=yvcDi8gAAAAJ&hl=en&oi=ao
   - icon: fal fa-bacteria
     title: amplicon workflow
     url: https://hlfreund.github.io/Amplicon_WF.github.io/
