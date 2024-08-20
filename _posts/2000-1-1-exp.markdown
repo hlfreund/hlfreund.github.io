@@ -1,12 +1,16 @@
 ---
 layout: default
 img: coding.jpg
-category: Experience
-title: "Graduate Student Researcher"
+category: Research Experience
+title: "Academic Research History"
 description: 
 ---
 
-* __2017 – 2019__
-* Dr. Renaud Berlemont's Bioinformatics Lab (CSU Long Beach)
-* Position: Graduate Student Researcher (Masters)
-* Research: Amplicon sequencing and shotgun metagenomics analyses
+1. PhD in Genetics, Genomics, & Bioinformatics
+   * UC Riverside, 2024
+   * Studied the microbial ecology of the Salton Sea, specifically its water & dust, using amplicon & shotgun metagenome sequencing.
+   * Advisor: Dr. Emma Aronson
+3. MS in Biology
+   * CSU Long Beach, 2017
+   * Studied the gut microbiome of cartilaginous fishes using raw shotgun metagenome reads.
+   * Advisor: Dr. Renaud Berlemont
