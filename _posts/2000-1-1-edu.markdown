@@ -2,13 +2,16 @@
 layout: default
 img: workflow.png
 category: Education
-title: PhD in Genetics, Genomics, and Bioinformatics
-description: 2019-Present
+title: Postdoctoral Scholar
+description: 2024 - 2026
 ---
 
-* __2019 - Present__
-* University of California Riverside, Riverside, CA
-* Investigating the aeolian microbiome of the Salton Sea
-* Advisor: Dr. Emma Aronson
-* Funding: Chancellor's Distinguished Fellowship Award, Dr. Janet M. Boyce Memorial Endowed Scholarship Fund for Women Majoring in the Sciences
- 
+* __2024 - 2026__
+* Postdoctoral Scholar, Department of Medicine at UC San Diego
+* Understanding the connection between the gut microbiome, liver disease, and alcohol use disorder
+* Advisor: Dr. Cynthia Hsu
+
+* __2019 - 2024__
+* PhD in Genetics, Genomics, & Bioinformatics from UC Riverside
+* Research focused on understanding the microbial ecology of the Salton Sea
+* Advisor: Dr. Emma Aronson 
