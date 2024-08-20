@@ -1,8 +1,8 @@
 ---
 layout: default
 img: coding.jpg
-category: Research Experience
-title: "Academic Research History"
+category: Education
+title: "Academic & Research History"
 description: 
 ---
 
